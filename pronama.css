@@ -232,14 +232,14 @@
 }
 
 .pronama-running {
-  animation: parapara .6s steps(6) 0s infinite;
-  -moz-animation: parapara .6s steps(6) 0s infinite;
-  -webkit-animation: parapara .6s steps(6) 0s infinite;
-  -o-animation: parapara .6s steps(6) 0s infinite;
-  -ms-animation: parapara .6s steps(6) 0s infinite;
+  animation: anim .6s steps(6) 0s infinite;
+  -moz-animation: anim .6s steps(6) 0s infinite;
+  -webkit-animation: anim .6s steps(6) 0s infinite;
+  -o-animation: anim .6s steps(6) 0s infinite;
+  -ms-animation: anim .6s steps(6) 0s infinite;
 }
 
-@keyframes parapara {
+@keyframes anim {
   0% {
       background-position: 0 0;
   }
@@ -248,7 +248,7 @@
   }
 }
 
-@-moz-keyframes parapara {
+@-moz-keyframes anim {
   0% {
       background-position: 0 0;
   }
@@ -257,7 +257,7 @@
   }
 }
 
-@-webkit-keyframes parapara {
+@-webkit-keyframes anim {
   0% {
       background-position: 0 0;
   }
@@ -266,7 +266,7 @@
   }
 }
 
-@-o-keyframes parapara {
+@-o-keyframes anim {
   0% {
       background-position: 0 0;
   }
@@ -275,7 +275,7 @@
   }
 }
 
-@-ms-keyframes parapara {
+@-ms-keyframes anim {
   0% {
       background-position: 0 0;
   }
