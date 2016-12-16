@@ -8,12 +8,12 @@
 
 ## Usage
 
-### import 
+### import
 
 URL (削除される可能性があります)
 
 ```html
-<link href="//dl.dropboxusercontent.com/u/6396527/lib/pronama/pronama.css" rel="stylesheet"/>
+<link href="//itkr.github.io/files/pronama/pronama.css" rel="stylesheet"/>
 ```
 
 Downloaded
