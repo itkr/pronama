@@ -1,6 +1,6 @@
 # Pronama
 
-[Demo](http://jsrun.it/itkr/QNVs)
+[Demo](https://itkr.github.io/files/pronama/demo.html)
 
 ## Guideline
 
